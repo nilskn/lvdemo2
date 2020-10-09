@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Konflikt1
 
 Fertig entwickelt. Konflikt erzeugen
+=======
+Konflikt12
+>>>>>>> develop
